@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#band{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-weight: 800;
+    font-size: larger;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.sec{
+    background-image: url(https://img.freepik.com/free-vector/minimal-star-pattern-vector-with-pastel-background-wallpaper_53876-111543.jpg);
+}
