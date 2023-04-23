@@ -9,8 +9,13 @@
     padding: 10px;
     background-color: white;
     border-radius: 10px;
+	
     
 }
+#bands:nth-child(1n){
+    background-color:white;
+}
+
 .sec{
     background-image: url(https://img.freepik.com/free-vector/minimal-star-pattern-vector-with-pastel-background-wallpaper_53876-111543.jpg);
 }
