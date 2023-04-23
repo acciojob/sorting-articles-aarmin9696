@@ -12,7 +12,7 @@
 	
     
 }
-ul li:nth-child(1n){
+ul li:nth-child(n){
     background-color:white;
 }
 
