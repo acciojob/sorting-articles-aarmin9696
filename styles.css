@@ -12,7 +12,7 @@
 	
     
 }
-#bands:nth-child(1n){
+ul li:nth-child(1n){
     background-color:white;
 }
 
